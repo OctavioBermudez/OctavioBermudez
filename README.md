@@ -73,7 +73,22 @@ Me chamo Octavio Bermudez, tenho 16 anos e sou natural do Rio Grande do Sul. Atu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left"
+    alt="Arduino"
+    title="Arduino" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"   
+/>
+<img 
+    align="left" 
+    alt="LINUX"
+    title="LINUX" 
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"   
+/>
 <br/>
 <br/>
 
